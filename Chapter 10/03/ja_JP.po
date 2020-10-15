@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: I18NTestApp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-16 14:03-0500\n"
+"PO-Revision-Date: 2010-03-01 04:33+0000\n"
+"Last-Translator: Cody <Unknown>\n"
+"Language-Team: Japanese <ja@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "Hello"
+msgstr "日本語"
+
+msgid "Sample App"
+msgstr "サンプルアプリケーション"
+
+msgid "Language"
+msgstr "国語"

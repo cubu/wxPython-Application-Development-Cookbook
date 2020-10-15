@@ -1,0 +1,25 @@
+wxPython Cookbook
+Chapter 12 Application Infrastructure,
+           Building and Managing Applications for Distribution
+Recipe 7 Distributing an Application
+
+This is the example code for Recipe 7 Distributing an Application
+
+Prerequisites:
+
+1) Python 2.5 or 2.6 has been installed
+2) wxPython 2.8 has been installed for the version of Python used above
+
+How to run this script:
+
+From the command line or your IDE run the following command
+
+On Windows:
+
+python setup.py py2exe
+
+On OSX
+
+python setup.py py2app
+
+Once completed the built binaries will be in the dist folder

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<resource>
+  <object class="wxPanel" name="dialog_panel">
+    <object class="wxBoxSizer">
+      <orient>wxVERTICAL</orient>
+      <object class="sizeritem">
+        <object class="wxTextCtrl" name="display">
+            <style>wxTE_READONLY|wxTE_RIGHT</style>
+        </object>
+        <flag>wxEXPAND</flag>
+      </object>
+      <object class="sizeritem">
+        <object class="PhoneButtonPanel" name="buttons"/>
+        <flag>wxALL|wxEXPAND</flag>
+        <border>5</border>
+      </object>
+    </object>
+  </object>
+</resource>
